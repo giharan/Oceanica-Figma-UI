@@ -28,7 +28,7 @@ The interface focuses on **clarity, user trust, and smooth navigation** to simpl
 
 | Home Page | Tours Page | Activities Page |
 |------------|------------------|---------------|
-| ![Home](oceanica/home.png) | ![Tours](oceanica/tours.png) | ![Activities](oceanica/activities.png) |
+| ![Home](oceanica/home.PNG) | ![Tours](oceanica/tours.PNG) | ![Activities](oceanica/activities.PNG) |
 
 ---
 
